@@ -15,16 +15,19 @@
 
 ### 📊 Performance & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhGomesBr&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF&border_radius=20&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhGomesBr&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&border_radius=20&hide_border=true" width="38%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhGomesBr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF&border_radius=10" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhGomesBr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&border_radius=10" width="38%" />
+</div>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=dracula&area=true&hide_border=true&color=00D1FF&line=00D1FF&point=00D1FF" width="100%" />
-</p>
+<div align="center">
+  <div style="border-radius: 10px; overflow: hidden; width: 100%;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=react-dark&area=true&hide_border=true&point=00D1FF&color=00D1FF&line=00D1FF" width="100%" alt="Activity Line Graph" />
+  </div>
+</div>
 
 ---
 
