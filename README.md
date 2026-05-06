@@ -7,7 +7,7 @@
 ## 💎 Design & Code
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndm80Z3M5eHh3Ym9ueXJ6eXh6eXh6eXh6eXh6eXh6eXh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/L1R1QHUR4YpGg/giphy.gif" width="150"/>
 
-* **Front-end:** Criando experiências fluidas com **React** e Angular.
+* **Front-end:** Criando experiências fluidas com **React** e **Angular**.
 * **Back-end:** APIs robustas e escaláveis em **Node.js**, **Java** e **C#**.
 * **Mindset:** "O design não é apenas como parece, mas como funciona."
 
@@ -16,7 +16,7 @@
 ### 📊 Performance & Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phgmontanha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phgmontanha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&border_radius=10" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhGomesBr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&border_radius=10" width="38%" />
 </div>
 
 <br>
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Specialized Toolset (Atualizado)
+### 🛠️ Knowledge
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,react,node,cs,html,css,insomnia" />
 </p>
