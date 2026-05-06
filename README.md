@@ -7,27 +7,24 @@
 ## 💎 Design & Code
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndm80Z3M5eHh3Ym9ueXJ6eXh6eXh6eXh6eXh6eXh6eXh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGg/giphy.gif" width="150"/>
 
-* **Front-end:** Criando experiências fluidas com **React** e Angular.
-* **Back-end:** APIs robustas e escaláveis em **Node.js**, **Java** e **C#**.
-* **Mindset:** "O design não é apenas como parece, mas como funciona."
+* **Front-end:** Experiências fluidas com **React** e Angular.
+* **Back-end:** APIs robustas em **Node.js**, **Java** e **C#**.
+* **Database:** Gestão de dados com **MySQL**.
 
 ---
 
-### 📊 Performance & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhGomesBr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF&border_radius=10" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhGomesBr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&border_radius=10" width="38%" />
-</div>
+### 📊 Dev Metrics
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Stack-Java_/_React-00D1FF?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/Project_Phase-Development-00D1FF?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open_Source-Active-00D1FF?style=for-the-badge&logo=github&logoColor=black" />
+</p>
 
 <br>
 
-<div align="center">
-  <div style="border-radius: 10px; overflow: hidden; width: 100%;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=react-dark&area=true&hide_border=true&point=00D1FF&color=00D1FF&line=00D1FF" width="100%" alt="Activity Line Graph" />
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=react-dark&area=true&hide_border=true&color=00D1FF&line=00D1FF&point=00D1FF" width="100%" />
+</p>
 
 ---
 
@@ -40,10 +37,8 @@
 
 ### 🌐 Connect with the Developer
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00D1FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/pedrogomes)
-[![Gmail](https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:phgmontanha1@gmail.com)
-
+  <a href="https://www.linkedin.com/in/pedrogomes"><img src="https://img.shields.io/badge/-LinkedIn-00D1FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:phgmontanha1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </div>
 
 <p align="center">
