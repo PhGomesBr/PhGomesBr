@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/WorldSkills-Web+Technologies-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Estadual+2025-ffffff?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Estadual+2026-ffffff?style=for-the-badge&logo=target&logoColor=black" />
   <img src="https://img.shields.io/badge/Status-Building-00D1FF?style=for-the-badge&logo=git&logoColor=black" />
 </p>
 
@@ -52,8 +52,8 @@ const pedro = {
 ## `< métricas />`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhGomesBr&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff&bg_color=0d0d0d" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhGomesBr&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0d0d0d" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PhGomesBr&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff&bg_color=0d0d0d&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhGomesBr&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0d0d0d&cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
