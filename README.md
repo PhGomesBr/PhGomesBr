@@ -50,11 +50,7 @@ const pedro = {
 ---
 
 ## `< métricas />`
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PhGomesBr&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff&bg_color=0d0d0d" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhGomesBr&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0d0d0d" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=react-dark&area=true&hide_border=true&color=00D1FF&line=00D1FF&point=ffffff" width="100%" />
