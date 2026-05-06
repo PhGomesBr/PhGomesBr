@@ -1,36 +1,35 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=PEDRO+GOMES;FULL+STACK+DEVELOPER;UI+%2F+UX+ENTHUSIAST;" alt="typing svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=PEDRO+GOMES;FULL+STACK+DEVELOPER;JAVA+%2B+REACT+%2B+NODE.JS;" alt="typing svg" />
 </p>
 
 ---
 
 ## 💎 Design & Code
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndm80Z3M5eHh3Ym9ueXJ6eXh6eXh6eXh6eXh6eXh6eXh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGg/giphy.gif" width="150"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndm80Z3M5eHh3Ym9ueXJ6eXh6eXh6eXh6eXh6eXh6eXh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/L1R1QHUR4YpGg/giphy.gif" width="150"/>
 
-* **Front-end:** Criando experiências fluidas com **Angular** e **React**.
-* **Back-end:** Arquiteturas sólidas em **Java Spring Boot**.
+* **Front-end:** Criando experiências fluidas com **React** e Angular.
+* **Back-end:** APIs robustas e escaláveis em **Node.js**, **Java** e **C#**.
 * **Mindset:** "O design não é apenas como parece, mas como funciona."
 
 ---
 
 ### 📊 Performance & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phgmontanha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phgmontanha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phgmontanha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phgmontanha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&border_radius=10" width="38%" />
 </div>
 
 <br>
 
-<div align="center" style="border-radius: 10px">
-  <img src="https://raw.githubusercontent.com/adrian-at-git/github-readme-activity-graph/main/assets/themes/react-dark.png" style="display:none; border-radius: 10px"">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=react-dark&area=true&hide_border=true&point=00D1FF&color=00D1FF&line=00D1FF" width="100%" alt="Activity Line Graph" style="border-radius: 10px" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phgmontanha&theme=react-dark&area=true&hide_border=true&point=00D1FF&color=00D1FF&line=00D1FF&border_radius=10" width="100%" alt="Activity Line Graph" />
 </div>
 
 ---
 
-### 🛠️ Specialized Toolset
+### 🛠️ Specialized Toolset (Atualizado)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,angular,ts,html,css,figma,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,react,node,cs,html,css,insomnia" />
 </p>
 
 ---
