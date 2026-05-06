@@ -44,7 +44,7 @@ _Focado em entregar soluções eficientes, código limpo e constante aprendizado
 ### 📊 Métricas & Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_AQUI&theme=catppuccin-mocha"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=catppuccin-mocha"/>
 </div>
 
 ---
