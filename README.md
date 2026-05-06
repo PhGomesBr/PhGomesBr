@@ -1,70 +1,48 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=2000&pause=1000&color=1DD6B5&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+mundo%21;Sou+Pedro+Gomes;Desenvolvedor+Full+Stack;" alt="typing svg" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Contenda%2C-Paran%C3%A1-%23000?logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/In%20Brazil%2C+in%20your+heart-%23FF4B4B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=PEDRO+GOMES;FULL+STACK+DEVELOPER;UI+%2F+UX+ENTHUSIAST;" alt="typing svg" />
 </p>
 
 ---
 
-## Oi, eu sou o Pedro Gomes 🚀
-**Desenvolvedor Full Stack (Web • Back-end • Mobile)**
+## 💎 Design & Code
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndm80Z3M5eHh3Ym9ueXJ6eXh6eXh6eXh6eXh6eXh6eXh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGg/giphy.gif" width="150"/>
 
-<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
-
-_Focado em entregar soluções eficientes, código limpo e constante aprendizado._
-
-### 🚀 Sobre mim
-- 💻 Atuando como **Desenvolvedor Full Stack**
-- 🎓 Experiência em competições de tecnologia (**WorldSkills**)
-- 👯 Entusiasta de código aberto e projetos colaborativos
-- 🤔 Especialista em **Java** e ecossistema **JVM**
-- 📚 Sempre explorando novas arquiteturas e padrões de projeto
+* **Front-end:** Criando experiências fluidas com **Angular** e **React**.
+* **Back-end:** Arquiteturas sólidas em **Java Spring Boot**.
+* **Mindset:** "O design não é apenas como parece, mas como funciona."
 
 ---
 
-### 🛠️ Tech Stack
+### 📊 Performance & Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=phgmontanha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phgmontanha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF" width="38%" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adrian-at-git/github-readme-activity-graph/main/assets/themes/react-dark.png" style="display:none">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phgmontanha&theme=react-dark&area=true&hide_border=true&point=00D1FF&color=00D1FF&line=00D1FF" width="100%" alt="Activity Line Graph" />
+</div>
+
+---
+
+### 🛠️ Specialized Toolset
 <p align="center">
-  Java • Spring Boot • React • Node.js • Kotlin • SQL
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,angular,ts,html,css,figma,git,postman" />
 </p>
 
 ---
 
-### 📊 Métricas & Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=catppuccin-mocha"/>
-</div>
-
----
-
-### 🌙 Atualmente focado em
-- 🏗️ Microserviços e Arquitetura Limpa (Clean Architecture)
-- ☁️ Cloud Computing e Deploy escalável
-- 📱 Desenvolvimento Mobile de alta performance
-
----
-
-### 💌 Me encontra por aí
+### 🌐 Connect with the Developer
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogomes)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO_AQUI)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00D1FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/pedrogomes)
+[![Gmail](https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:phgmontanha1@gmail.com)
 
 </div>
 
 <p align="center">
-  ☕ "Talk is cheap. Show me the code."
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00D1FF&height=60&section=footer" width="100%"/>
 </p>
