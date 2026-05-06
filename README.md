@@ -1,46 +1,76 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:00D1FF&height=120&section=header" width="100%"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=PEDRO+GOMES;FULL+STACK+DEVELOPER;JAVA+%2B+REACT+%2B+NODE.JS;" alt="typing svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Pedro+Gomes;Full+Stack+Developer;WorldSkills+Competitor+%F0%9F%8F%86;Always+building+something." alt="typing" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WorldSkills-Web+Technologies-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Estadual+2025-ffffff?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-Building-00D1FF?style=for-the-badge&logo=git&logoColor=black" />
 </p>
 
 ---
 
-## 💎 Design & Code
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndm80Z3M5eHh3Ym9ueXJ6eXh6eXh6eXh6eXh6eXh6eXh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGg/giphy.gif" width="150"/>
+## `< sobre mim />`
 
-* **Front-end:** Experiências fluidas com **React** e Angular.
-* **Back-end:** APIs robustas em **Node.js**, **Java** e **C#**.
-* **Database:** Gestão de dados com **MySQL**.
+```javascript
+const pedro = {
+  stack:     ["Java", "Spring", "React", "Node.js", "C#", "MySQL"],
+  foco:      ["JavaScript", "React", "Node.js"],
+  objetivo:  "WorldSkills Web Technologies — Estadual 2025",
+  modo:      "sempre aprendendo, sempre entregando"
+}
+```
 
 ---
 
-### 📊 Dev Metrics
-<p align="center">
-  <img src="https://img.shields.io/badge/Main_Stack-Java_/_React-00D1FF?style=for-the-badge&logo=codeforces&logoColor=black" />
-  <img src="https://img.shields.io/badge/Project_Phase-Development-00D1FF?style=for-the-badge&logo=git&logoColor=black" />
-  <img src="https://img.shields.io/badge/Open_Source-Active-00D1FF?style=for-the-badge&logo=github&logoColor=black" />
-</p>
-
-<br>
+## `< stack />`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=react-dark&area=true&hide_border=true&color=00D1FF&line=00D1FF&point=00D1FF" width="100%" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,js,cs,mysql,html,css,git" />
 </p>
 
 ---
 
-### 🛠️ Specialized Toolset
+## `< projetos />`
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,react,nodejs,cs,html,css,insomnia" />
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [ProvaNacional](https://github.com/PhGomesBr/ProvaNacional) | Prova técnica nacional | HTML · CSS · JS |
+| [ProjetoRecados](https://github.com/PhGomesBr/ProjetoRecados) | Sistema de recados | JS · Node |
+| [ProjetoFinalCurso](https://github.com/PhGomesBr/ProjetoFinalCurso) | Projeto de conclusão | Full Stack |
+| [link-board](https://github.com/PhGomesBr/link-board) | Board de links | React |
+| [Html_Css_puro-V2](https://github.com/PhGomesBr/Html_Css_puro-V2) | Layout em HTML/CSS puro | HTML · CSS |
+
 </p>
 
 ---
 
-### 🌐 Connect with the Developer
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedrogomes"><img src="https://img.shields.io/badge/-LinkedIn-00D1FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="mailto:phgmontanha1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-</div>
+## `< métricas />`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00D1FF&height=60&section=footer" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PhGomesBr&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff&bg_color=0d0d0d" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhGomesBr&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0d0d0d" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=react-dark&area=true&hide_border=true&color=00D1FF&line=00D1FF&point=ffffff" width="100%" />
+</p>
+
+---
+
+## `< contato />`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedrogomes">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro+Gomes-00D1FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:phgmontanha1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-phgmontanha1-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:0a0a0a&height=100&section=footer" width="100%"/>
