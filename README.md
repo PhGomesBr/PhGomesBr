@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=2000&pause=1000&color=1DD6B5&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+mundo%21;Sou+Pedro+Gomes;Desenvolvedor+Full+Stack;" alt="typing svg" />
 </p>
@@ -45,7 +44,7 @@ _Focado em entregar soluções eficientes, código limpo e constante aprendizado
 ### 📊 Métricas & Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=catppuccin-mocha"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_AQUI&theme=catppuccin-mocha"/>
 </div>
 
 ---
