@@ -21,7 +21,7 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="border-radius: 10px">
   <img src="https://raw.githubusercontent.com/adrian-at-git/github-readme-activity-graph/main/assets/themes/react-dark.png" style="display:none">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=react-dark&area=true&hide_border=true&point=00D1FF&color=00D1FF&line=00D1FF" width="100%" alt="Activity Line Graph" />
 </div>
