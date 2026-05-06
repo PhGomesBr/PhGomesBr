@@ -51,8 +51,9 @@ const pedro = {
 
 ## `< métricas />`
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=PhGomesBr&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff&bg_color=0d0d0d&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=PhGomesBr&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0d0d0d&cache_seconds=1800" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PhGomesBr&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff&bg_color=0d0d0d" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhGomesBr&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0d0d0d" height="160"/>
 </p>
 
 <p align="center">
