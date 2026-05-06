@@ -14,6 +14,7 @@
 ---
 
 ### 📊 Performance & Activity
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PhGomesBr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF&border_radius=10" width="48%" />
   
@@ -23,7 +24,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=react-dark&area=true&hide_border=true&point=00D1FF&color=00D1FF&line=00D1FF&border_radius=10" width="100%" alt="Activity Line Graph" />
+  <div style="border-radius: 10px; overflow: hidden; width: 100%;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhGomesBr&theme=react-dark&area=true&hide_border=true&point=00D1FF&color=00D1FF&line=00D1FF" width="100%" alt="Activity Line Graph" />
+  </div>
 </div>
 
 ---
