@@ -61,7 +61,7 @@ const pedro = {
 ## `< contato />`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-montanha">
+  <a href="https://www.linkedin.com/in/pedro-montanha-3940b7316">
     <img src="https://img.shields.io/badge/LinkedIn-Pedro+Montanha-00D1FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:ph.gmontanha1@gmail.com">
