@@ -18,7 +18,7 @@
 const pedro = {
   stack:     ["Java", "Spring", "React", "Node.js", "C#", "MySQL"],
   foco:      ["JavaScript", "React", "Node.js"],
-  objetivo:  "WorldSkills Web Technologies — Estadual 2025",
+  objetivo:  "WorldSkills Web Technologies — Estadual 2026",
   modo:      "sempre aprendendo, sempre entregando"
 }
 ```
@@ -28,7 +28,7 @@ const pedro = {
 ## `< stack />`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,js,cs,mysql,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,js,cs,mysql,html,css,angular" />
 </p>
 
 ---
